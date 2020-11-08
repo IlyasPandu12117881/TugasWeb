@@ -2,4 +2,4 @@
 Nama  : Ilyasa Pandu Tulodo
 NPM   : 12117881
 Kelas : 4KA09
-Tugas membuat Web dengan menggunakan bootstrap
+Tugas 2 : Membuat Web dengan menggunakan bootstrap
